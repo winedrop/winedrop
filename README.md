@@ -3,7 +3,8 @@
 ### About Me
 -I'm a UCLA student majoring in Computer Science and minoring in Mathematics
 
-
+### Other
+-previous github: github.com/Au-Ch
 <!---
 winedrop/winedrop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
